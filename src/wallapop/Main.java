@@ -10,6 +10,7 @@ public class Main {
 	public static void main(String[] args) {
  
 		//Creo productos
+
 		Producto p1 = new Producto("leche", 1.0);
 		Producto p2 = new Producto("papas fritas", 2.0);
 		Producto p3 = new Producto("cerveza", 0.50);
